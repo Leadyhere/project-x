@@ -1,1 +1,12 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
